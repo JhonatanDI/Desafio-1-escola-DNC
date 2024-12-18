@@ -1,0 +1,32 @@
+*{
+
+margin: 0px;
+
+}
+
+#menusuperior{
+
+background-color: #303030;
+padding-bottom: 150px;
+padding-top: 50px;
+
+
+}
+
+#titulosuperior{
+
+color: #FFFFFF;
+font-family: "inter";
+text-align: left;
+margin-top:80px;
+margin-left: 13px;
+}
+
+ #titulosecundario{
+
+    color: #FFFFFF;
+    font-family: "inter";
+    margin-left: 13px;
+    font-size: 16px;
+}
+ 
