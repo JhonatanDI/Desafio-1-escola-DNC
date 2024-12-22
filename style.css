@@ -1,5 +1,7 @@
 *{
 
+<!-- MENU SUPERIOR-->
+
 margin: 0px;
 
 }
@@ -19,14 +21,51 @@ color: #FFFFFF;
 font-family: "inter";
 text-align: left;
 margin-top:80px;
-margin-left: 13px;
+margin-left: 42px;
 }
 
  #titulosecundario{
 
     color: #FFFFFF;
     font-family: "inter";
-    margin-left: 13px;
-    font-size: 16px;
+    margin-left: 42px;
+    font-size: 13px;
 }
  
+<!-- MENU INFORMACIONAL-->
+
+.b {border: 5px solid #F9F9F9;
+}
+
+.texto-informativo1{
+
+    font-size: 17px;
+    text-align: left;
+}
+.texto-informativo{
+padding-top: 6px;
+margin-top: -15px;
+    font-size: 10px;
+}
+
+.b {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    padding-bottom: 100px;
+    margin: 50px 0px 50px 70px;
+   
+    text-align: center;
+    font-family: Inter;
+    grid-auto-columns: column;
+    columns: auto;
+}
+    
+    
+
+
+
+.texto-informativo {
+
+    display: flex;
+    align-items: center;
+}
