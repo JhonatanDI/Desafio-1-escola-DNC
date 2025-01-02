@@ -211,6 +211,7 @@ transition-duration: 0.2s;
 
 
 #X {
+    cursor: pointer;
     display: none;
     position: absolute;
     border-radius: 25%;
